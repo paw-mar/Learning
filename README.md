@@ -1,3 +1,3 @@
 # Learning
 
-Space for some training exercises 
+Space for some training exercises !
